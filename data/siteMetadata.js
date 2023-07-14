@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Some notes and Memories',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://zoe-blog.vercel.app/',
   siteRepo: 'https://github.com/guanyiiiii-0225/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
