@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/guanyiiiii-0225/blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png', // 橫幅廣告
+  socialBanner: '/static/images/logo.png', // 橫幅廣告
   email: 'b08705050@ntu.im',
   github: 'https://github.com/guanyiiiii-0225',
   twitter: 'https://twitter.com/Twitter',
