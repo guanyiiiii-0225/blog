@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png', // 橫幅廣告
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  email: 'b08705050@ntu.im',
+  github: 'https://github.com/guanyiiiii-0225',
   twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  facebook: 'https://www.facebook.com/zoememy/',
+  youtube: 'https://www.youtube.com/channel/UCsw45vNdLzQpNs__f28uycg',
+  linkedin: 'https://www.linkedin.com/in/zoe0225/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
