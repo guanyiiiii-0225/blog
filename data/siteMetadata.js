@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "Zoe's Blog",
   author: 'Kuan Yi Chen(Zoe Chen)',
   headerTitle: "Zoe's Blog",
-  description: 'Some notes and Memories',
+  description: 'Some Notes and Memories',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://zoe-blog.vercel.app/',
