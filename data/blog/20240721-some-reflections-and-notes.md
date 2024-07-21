@@ -1,9 +1,9 @@
 ---
-title: Some reflections and notes! 🎉
+title: Reflections on Work, Learning, and Leisure 🌟
 date: '2024-07-21'
 tags: ['daily', 'life', 'google', 'intern']
 draft: false
-summary: Some reflections and notes!
+summary: Some reflections on work, learning, and leisure
 images: ['/static/images/project/20240721-blog-pic.jpg']
 ---
 
